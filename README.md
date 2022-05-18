@@ -2,7 +2,7 @@
 
 # Person
 
-## POST:
+## Post:
 http://localhost:8080/api/v1/person
 ```JSON
 {
@@ -21,7 +21,7 @@ http://localhost:8080/api/v1/person/3?name=Kasper&eMail=Kasper@kasper.it
 
 # Product
 
-## POST:
+## Post:
 http://localhost:8080/api/v1/product
 ```JSON
 {
